@@ -51,7 +51,19 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances/>
-  <tiles/>
+  <tiles>
+    <tile bgName="til_landscape" x="0" y="544" w="32" h="32" xo="0" yo="0" id="10000001" name="inst_AF9B9A73" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="32" y="544" w="32" h="32" xo="0" yo="0" id="10000002" name="inst_F3A5D841" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="64" y="544" w="32" h="32" xo="0" yo="0" id="10000003" name="inst_35FDD71A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="96" y="544" w="32" h="32" xo="0" yo="0" id="10000004" name="inst_EBD00A05" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="128" y="544" w="32" h="32" xo="0" yo="0" id="10000005" name="inst_00C1B194" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="160" y="544" w="32" h="32" xo="0" yo="0" id="10000006" name="inst_4800898E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="192" y="544" w="32" h="32" xo="0" yo="0" id="10000007" name="inst_E160DF72" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="224" y="544" w="32" h="32" xo="0" yo="0" id="10000008" name="inst_6974E4B8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="256" y="544" w="32" h="32" xo="0" yo="0" id="10000009" name="inst_AEA5E547" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="288" y="544" w="32" h="32" xo="0" yo="0" id="10000010" name="inst_8DE550A5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="til_landscape" x="320" y="544" w="32" h="32" xo="0" yo="0" id="10000011" name="inst_60993D74" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+  </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
