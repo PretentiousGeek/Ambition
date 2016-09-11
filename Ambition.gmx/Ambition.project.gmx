@@ -5,12 +5,18 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_sand</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+<<<<<<< HEAD
   <rooms name="rooms">
     <room>rooms\rm_zoo1</room>
   </rooms>
+=======
+  <rooms name="rooms"/>
+>>>>>>> refs/remotes/origin/nl-pending
   <help>
     <rtf>help.rtf</rtf>
   </help>
